@@ -5,6 +5,8 @@ import java.util.Stack;
 
 import edu.princeton.cs.algs4.MinPQ;
 
+// method Solver
+
 public class Solver {
 	private class Move implements Comparable<Move> {
 		private Board board;
